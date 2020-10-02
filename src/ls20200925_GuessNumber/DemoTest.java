@@ -1,4 +1,4 @@
-package ls20200925_Repeat;
+package ls20200925_GuessNumber;
 
 import org.junit.jupiter.api.Test;
 

@@ -1,5 +1,6 @@
-package ls20200925_Repeat;
+package ls20200925_GuessNumber;
 
+//тестовый класс, заглушка
 public class InputMock implements NumberInput {
     int nextNumber;
 
