@@ -1,4 +1,4 @@
-package ls20200925_GuessNumber;
+package ls0925_GuessNumber;
 
 public class GuessNumber {
     static int secretNumber = 2;
@@ -17,7 +17,7 @@ public class GuessNumber {
     public void game() {
         output.print("Try to guess a secret number");
         int number = numberInput.getNextNumber();
-        output.print("You entered " + number);
+        //output.print("You entered " + number);
         boolean correctGuess = false;
         while (attempts > 1 && !correctGuess) {
             if (secretNumber == number) {
@@ -25,7 +25,7 @@ public class GuessNumber {
             } else {
                 output.print("Wrong number, try again");
                 number = numberInput.getNextNumber();
-                output.print("You entered " + number);
+                //output.print("You entered " + number);
             }
             attempts--;
         }

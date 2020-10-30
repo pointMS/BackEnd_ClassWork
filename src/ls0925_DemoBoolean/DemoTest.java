@@ -1,5 +1,6 @@
-package ls20200925_GuessNumber;
+package ls0925_DemoBoolean;
 
+import ls0925_DemoBoolean.Demo;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;

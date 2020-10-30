@@ -1,4 +1,4 @@
-package ls20200925_GuessNumber;
+package ls0925_GuessNumber;
 
 public class ConsoleOutput implements GameOutput{
     @Override

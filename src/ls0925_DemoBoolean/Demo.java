@@ -1,4 +1,4 @@
-package ls20200925_GuessNumber;
+package ls0925_DemoBoolean;
 
 public class Demo {
     public static void main(String[] args) {
