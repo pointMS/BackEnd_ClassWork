@@ -38,7 +38,7 @@ public class Demo {
 
         //"abc" -> false
         //"aabb" -> true
-        // метод test()
+        // метод test.txt()
         Predicate<String> f3 = (s) -> s.length() % 2 == 0;
         System.out.println(f3.test("aabb"));
 

@@ -8,7 +8,7 @@ import java.nio.file.StandardCopyOption;
 
 public class Main2 {
     public static void main(String[] args) throws IOException {
-        String url = "https://bumper-stickers.ru/32140-large_default/kot-saymona-vid-szadi.jpg";
+        String url = "https://images-na.ssl-images-amazon.com/images/I/51Ff6A7KfFL._SL1000_.jpg";
         String file = "image.jpg";
 
         downloadImage2(url, file);
